@@ -1,12 +1,12 @@
 [tool.poetry]
 name = "gbx"
-version = "0.0.1"
+version = "0.0.2"
 description = "A Python gopher proxy."
 authors = ["Simon de Vlieger <cmdr@supakeen.com>"]
 license = "MIT"
 readme = "README.md"
 keywords = ["gopher", "proxy"]
-repository = "https://github.com/supakeen/gbx"
+repository = "https://github.com/gopherball/gbx"
 classifiers = [
   "License :: OSI Approved :: MIT License",
   "Programming Language :: Python",
